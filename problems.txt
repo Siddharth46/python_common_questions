@@ -1,0 +1,13 @@
+-FizzBuzz → conditional logic / modulo checks
+-Palindrome check (string) → two‑pointer / reverse comparison
+Count vowels/consonants → simple iteration / conditional counting
+-Reverse a list in-place → two‑pointer swap
+-Two-sum → hash‑map (“seen values”) / brute force
+-Longest substring without repeating characters → sliding window + set/map
+Longest palindromic substring → expand‑around‑center (or DP)
+Merge two sorted lists/arrays → two‑pointer merge
+Binary search (sorted array) → divide and conquer
+Find duplicates in array → hash set / sorting
+Rotate array (k steps) → reverse in‑place / cyclic replacements
+-Anagram check → char count map / sorting
+-Balanced parentheses check → stack
